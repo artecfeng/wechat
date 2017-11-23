@@ -1,0 +1,20 @@
+{
+  "name": "artecfeng/wechat",
+  "description": "wechat class",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "artecfeng",
+      "email": "824431999@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "artecfeng\\utils\\": [
+        "src/"
+      ]
+    }
+  }
+}
